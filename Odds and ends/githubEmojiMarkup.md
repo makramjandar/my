@@ -1,6 +1,6 @@
 ## People
 
-| 1 | 2 | 3 |
+| ... | ... | ... |
 |---|---|---|
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
@@ -70,6 +70,8 @@
 
 ## Nature
 
+| ... | ... | ... |
+|---|---|---|
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
@@ -112,6 +114,8 @@
 
 ## Objects
 
+| ... | ... | ... |
+|---|---|---|
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
 | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :wind_chime: `:wind_chime:` |
@@ -202,6 +206,8 @@
 
 ## Places
 
+| ... | ... | ... |
+|---|---|---|
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
 | :bank: `:bank:` | :convenience_store: `:convenience_store:` | :love_hotel: `:love_hotel:` |
@@ -241,6 +247,8 @@
 
 ## Symbols
 
+| ... | ... | ... |
+|---|---|---|
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
