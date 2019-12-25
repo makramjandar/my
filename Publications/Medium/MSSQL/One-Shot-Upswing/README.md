@@ -20,7 +20,7 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 <img align="left" width="400" height="250" src="https://cdn-images-1.medium.com/max/800/1*242FubZV1QpxMVG5Y0p4Jw.png">
 <dl>
   <p><b>The issues ?!! </b></p>
-  <p>Based on the following <a href="https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49#file-oneshotupswing-gradeslist-csv"><b>List</b></a> of students grades we simply have to,</p>
+  <p>Based on the <a href="https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49#file-oneshotupswing-gradeslist-csv"><b>List</b></a> of students grades we simply have to,</p>
   <dd><b>1. </b>Replace the negatives entries with their absolutes values.</dd>
   <dd><b>2. </b>Calculate the average score with a coefficient of 1/6 for the tests subtotals and 1/3 for the final score.</dd>
   <dd><b>3. </b>Another typing error is at the origin of the one rank shift of the 4<sup>th</sup> test… we must also correct the boo-boo without (very challenging indeed !!) using the <b>Lead()</b> function !!</dd>
