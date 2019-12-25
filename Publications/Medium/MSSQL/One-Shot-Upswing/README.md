@@ -1,5 +1,5 @@
 ### `MSSQL`  
-# [One-Shot Upswing ♫ ♪](#https://medium.com/@makramjandar/sql-server-one-shot-upswing-148496935cb4)  
+# [One-Shot Upswing ♫ ♪](https://medium.com/@makramjandar/sql-server-one-shot-upswing-148496935cb4)  
 
 <img align="left" width="70" height="70" src="https://i.gyazo.com/5c4540d073c48de2e9dbbbd85f1e9cc7.gif">  
 
