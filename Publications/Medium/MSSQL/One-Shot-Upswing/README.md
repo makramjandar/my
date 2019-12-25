@@ -29,16 +29,16 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 # []()
 
 <dl>
-  <p><b>Let it be, </b>first, we'll use the following script to define and populate our original grades table:</p>
-  <dd><a href="https://gist.github.com/makramjandar/0f3ebf828b67ba5e182d8dcbfa8d9911#file-oneshotupswing-bulkinsert-sql"><b>$ table definition</b> and <b>bulk insert</b></a></dd>
+  <p><b>L</b>et it be, first, we'll use the following script to define and populate our original grades table:</p>
+  <dd><a href="https://gist.github.com/makramjandar/0f3ebf828b67ba5e182d8dcbfa8d9911#file-oneshotupswing-bulkinsert-sql"><b>$ table definition</b> + <b>bulk insert</b></a></dd>
 </dl>
 
 # []()
 
 <img align="right" width="400" height="280" src="https://cdn-images-1.medium.com/max/800/1*EnENdgJg80Dl_lllMZLIyA.png">
 <dl>
-  <p><b>Then, </b>prior to analysis, let's apply the 2 steps normalization:</p>
-  <dd><a href="https://gist.github.com/makramjandar/cb95c3d8e258576ca7783c4e4c71629a#file-oneshotupswing-tablescreation-sql"><b>$ In-Memory OLTP</b></a>: MSSQL conditional version-based (Memory-Optimized|Traditional on-disk)</dd>
+  <p><b>T</b>hen, prior to analysis, let's apply the 2 steps normalization:</p>
+  <dd><a href="https://gist.github.com/makramjandar/cb95c3d8e258576ca7783c4e4c71629a#file-oneshotupswing-tablescreation-sql"><b>$ In-Memory OLTP</b></a>: MSSQL conditional version-based (Memory-Optimized | Traditional on-disk)</dd>
   <dd><a href="https://gist.github.com/makramjandar/4a1c56f26472bccea9f1efefe759d829#file-oneshotupswing-normalization-sql"><b>$ Normalization</b></a>: Settle cleaned data and populating the newly created table.</dd>
 </dl>
   <p><em>We can apply those techies to recreate the relational tables, indexes, or even to automate data migration and all the sub-processes of the MERISE model-based just on the fly. Conceptually, the required bricks are exposed right here, up to you to extrapolate, fine-tune, tweak and so on ?!!</em></p>
@@ -46,7 +46,7 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 # []()
 
 <dl>
-  <p><b>So, </b>as our rocky data are now <em>nooormalized</em>, sleekly indexed and fields just in a well-shaped suit, we can then start slice & dice like Daddy in Mommy <b>☻ ☺</b>!! <em>you’ll groove on, indeed, my so Benetton politically correct emoticons…</em></p>
+  <p><b>S</b>o, as our rocky data are now <em>nooormalized</em>, sleekly indexed and fields just in a well-shaped suit, we can then start slice & dice like Daddy in Mommy <b>☻ ☺</b>!! <em>you’ll groove on, indeed, my so Benetton politically correct emoticons…</em></p>
   <dd><a href="https://gist.github.com/makramjandar/175ee9bc6fa632edf869b395307e5f58#file-oneshotupswing-exploratorypivoting-sql"><b>$ Exploratory Pivoting</b></a>: The average score of each student.</dd>
 </dl>
 
@@ -54,7 +54,7 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 
 <img align="left" width="400" height="280" src="https://cdn-images-1.medium.com/max/800/1*xXjr9rN80o4BV5otPYDbMQ.gif">
 <dl>
-  <p><b>Now, </b>let’s try simulating the LEAD() one, just in case ?! <em>Yeah, I’m fiercely devoted to the Shadoks motto: Why make it simple when you can make it complicated ?!!</em></p>
+  <p><b>Performance Tuning: </b>Now, let’s try simulating the <b>LEAD()</b> one, just in case ?! <em>Yeah, I’m fiercely devoted to the Shadoks motto: Why make it simple when you can make it complicated ?!!</em></p>
   <dd><a href="https://gist.github.com/makramjandar/8936fc8b39cae35544f89e70b53ff9f8#file-oneshotupswing-analyticalfunction-sql"><b>$ with Analytical function</b></a>,</dd>
   <dd><a href="https://gist.github.com/makramjandar/ca87c3dc4e6b94d21e3e5b48b9c705ad#file-oneshotupswing-nojoins-sql"><b>$ with No Joins</b></a>,</dd>
   <dd><a href="https://gist.github.com/makramjandar/18359a2d9a68dd6179bdd5afc0cbd43c#file-oneshotupswing-cteusage-sql"><b>$ CTE usage</b></a>,</dd>
@@ -66,8 +66,9 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 <img align="right" width="70" height="70" src="https://i.gyazo.com/5c4540d073c48de2e9dbbbd85f1e9cc7.gif">  
  
 ⚠ *Before launching the job, save __[gradesList.csv](https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49)__
-in drive __C:__ , then run __[bulkInsert.sql](https://gist.github.com/makramjandar/0f3ebf828b67ba5e182d8dcbfa8d9911)__,
-for populating the staging table or the __[scriptReady](https://gist.github.com/makramjandar/81e737251b35fdecdc2d7b8e67567508)__ for a one-shot processing.*
+in drive __C:__ ,  
+then run __[bulkInsert.sql](https://gist.github.com/makramjandar/0f3ebf828b67ba5e182d8dcbfa8d9911)__,
+for populating the staging table or the __`scriptReady`__ for a one-shot processing.*
 
 # []()
 
@@ -75,5 +76,3 @@ for populating the staging table or the __[scriptReady](https://gist.github.com/
 *the one-Shot Upswing*  
 *__[scriptReady](https://gist.github.com/makramjandar/81e737251b35fdecdc2d7b8e67567508)__* ❤️  
 *GO !!*
-
-[list]: https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49#file-oneshotupswing-gradeslist-csv
