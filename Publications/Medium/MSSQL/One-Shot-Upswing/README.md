@@ -1,5 +1,10 @@
-# [`MSSQL` One-Shot Upswing ♫ ♪](#https://medium.com/@makramjandar/sql-server-one-shot-upswing-148496935cb4)
-> For convenience, babble parsimony & script’s pumping 😎, please refer to the links.
+### `MSSQL`  
+# [One-Shot Upswing ♫ ♪](#https://medium.com/@makramjandar/sql-server-one-shot-upswing-148496935cb4)
+
+<img align="left" width="50" height="50" src="https://i.gyazo.com/5c4540d073c48de2e9dbbbd85f1e9cc7.gif">  
+
+For convenience, babble parsimony and script’s pumping   
+please refer to the links.   
 
 <img align="right" width="400" height="250" src="https://cdn-images-1.medium.com/max/800/1*9gen4BbBrZTW-ehrrOZ11Q.png">
 
