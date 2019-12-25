@@ -19,7 +19,8 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 
 <img align="left" width="400" height="250" src="https://cdn-images-1.medium.com/max/800/1*242FubZV1QpxMVG5Y0p4Jw.png">
 <dl>
-  <p><b>The issues ?!! </b>Based on the following <a href="https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49#file-oneshotupswing-gradeslist-csv"><b>List</b></a> of students grades we simply have to,</p>
+  <p><b>The issues ?!! </b></p>
+  <p>Based on the following <a href="https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49#file-oneshotupswing-gradeslist-csv"><b>List</b></a> of students grades we simply have to,</p>
   <dd><b>1. </b>Replace the negatives entries with their absolutes values.</dd>
   <dd><b>2. </b>Calculate the average score with a coefficient of 1/6 for the tests subtotals and 1/3 for the final score.</dd>
   <dd><b>3. </b>Another typing error is at the origin of the one rank shift of the 4<sup>th</sup> test… we must also correct the boo-boo without (very challenging indeed !!) using the <b>Lead()</b> function !!</dd>
@@ -63,9 +64,8 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 # []()
 
 <img align="right" width="70" height="70" src="https://i.gyazo.com/5c4540d073c48de2e9dbbbd85f1e9cc7.gif">  
-
-⛔  
-*Before launching the job, save __[gradesList.csv](https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49)__
+ 
+⚠ *Before launching the job, save __[gradesList.csv](https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49)__
 in drive __C:__ , then run __[bulkInsert.sql](https://gist.github.com/makramjandar/0f3ebf828b67ba5e182d8dcbfa8d9911)__,
 for populating the staging table or the __[scriptReady](https://gist.github.com/makramjandar/81e737251b35fdecdc2d7b8e67567508)__ for a one-shot processing.*
 
