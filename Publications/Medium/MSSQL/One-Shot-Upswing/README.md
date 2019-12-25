@@ -72,7 +72,7 @@ for populating the staging table or the __`scriptReady`__ for a one-shot process
 
 # []()
 
-*and 4 the so-beloved lazy ones,*  
+*and for the so-beloved lazy ones,*  
 *the one-Shot Upswing*  
 *__[scriptReady](https://gist.github.com/makramjandar/81e737251b35fdecdc2d7b8e67567508)__* ❤️  
 *GO !!*
