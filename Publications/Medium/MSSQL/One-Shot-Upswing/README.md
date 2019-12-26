@@ -73,5 +73,5 @@ file in drive `C:`.*
 
 *and for the so-beloved lazy ones,*  
 *the one-shot processing*  
-*__[scriptReady](https://gist.github.com/makramjandar/81e737251b35fdecdc2d7b8e67567508)__ <img width="20" height="20" src="https://i.gyazo.com/e1bb682e8dbd6b7220099326f93ab880.gif">*  
+*__[scriptReady](https://gist.github.com/makramjandar/81e737251b35fdecdc2d7b8e67567508)__ <img width="25" height="25" src="https://i.gyazo.com/e1bb682e8dbd6b7220099326f93ab880.gif">*  
 *GO !!*
