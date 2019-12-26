@@ -65,14 +65,14 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 
 <img align="right" width="70" height="70" src="https://i.gyazo.com/5c4540d073c48de2e9dbbbd85f1e9cc7.gif">  
  
-⚠ *Before launching the job, save __[gradesList.csv](https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49)__
-in drive __C:__ ,  
-then run __[bulkInsert.sql](https://gist.github.com/makramjandar/0f3ebf828b67ba5e182d8dcbfa8d9911)__,
-for populating the staging table or the __`scriptReady`__ for a one-shot processing.*
+⚠  
+<b><em>Prerequisites:</em></b>  
+    *save the __[gradesList.csv](https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49)__
+file in drive `C:`.*
 
 # []()
 
 *and for the so-beloved lazy ones,*  
-*the one-Shot Upswing*  
+*the one-shot processing*  
 *__[scriptReady](https://gist.github.com/makramjandar/81e737251b35fdecdc2d7b8e67567508)__* ❤️  
 *GO !!*
