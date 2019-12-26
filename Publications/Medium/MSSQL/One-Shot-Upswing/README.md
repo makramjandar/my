@@ -8,7 +8,9 @@
 *© under Do WTF You Want !!*
 # []()
 
-<img align="right" width="400" height="250" src="https://cdn-images-1.medium.com/max/800/1*9gen4BbBrZTW-ehrrOZ11Q.png">
+<p align="center">
+<img align="center" width="400" height="250" src="https://cdn-images-1.medium.com/max/800/1*9gen4BbBrZTW-ehrrOZ11Q.png">
+</p>
 
 __`Reverse-Engineering` or `Normalization|Denormalization` `BI Flattening`  `Conditional Memory-Optimized table creation` `Bulk Insert` `Exploratory Pivoting` `SQL Performance Tuning`__
 
