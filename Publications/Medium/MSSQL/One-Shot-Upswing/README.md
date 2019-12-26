@@ -59,7 +59,7 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
   <dd><a href="https://gist.github.com/makramjandar/ca87c3dc4e6b94d21e3e5b48b9c705ad#file-oneshotupswing-nojoins-sql"><b>$ with No Joins</b></a>,</dd>
   <dd><a href="https://gist.github.com/makramjandar/18359a2d9a68dd6179bdd5afc0cbd43c#file-oneshotupswing-cteusage-sql"><b>$ CTE usage</b></a>,</dd>
   <dd><a href="https://gist.github.com/makramjandar/ee9949b919e349ba240da3ed88ff7048#file-oneshotupswing-cteusagewithjoins-sql"><b>$ another CTE usage with Joins</b></a>,</dd>
-  <dd>and the 🏆 is the <a href="https://gist.github.com/makramjandar/24d3eea44f6857336e78229c4580c525#file-oneshotupswing-corelatedsubquery-sql"><b>$ co-Related Subquery</b></a>.</dd>
+  <dd>and the <img width="25" height="25" src="https://i.gyazo.com/0afc26f451460a28d7ef9855b5e75bfe.gif"> is the <a href="https://gist.github.com/makramjandar/24d3eea44f6857336e78229c4580c525#file-oneshotupswing-corelatedsubquery-sql"><b>$ co-Related Subquery</b></a>.</dd>
 
 # []()
    
