@@ -46,7 +46,7 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
 # []()
 
 <dl>
-  <p><b>S</b>o, as our rocky data are now <em>nooormalized</em>, sleekly indexed and fields just in a well-shaped suit, we can then start slice & dice like Daddy in Mommy <b>☻ ☺</b>!! <em>you’ll groove on, indeed, my so Benetton politically correct emoticons…</em></p>
+  <p><b>S</b>o, as our rocky data are now <em>nooormalized</em>, sleekly indexed and fields just in a well-shaped suit, we can then start slice & dice like Dad in Mom <b>☻ ☺</b>!! <em>you’ll groove on, indeed, my inclusive emoticons…</em></p>
   <dd><a href="https://gist.github.com/makramjandar/175ee9bc6fa632edf869b395307e5f58#file-oneshotupswing-exploratorypivoting-sql"><b>$ Exploratory Pivoting</b></a>: The average score of each student.</dd>
 </dl>
 
