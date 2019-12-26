@@ -67,9 +67,8 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
  
 ⚠  
 <b><em>Prerequisites:</em></b>  
-    *save the __[gradesList.csv](https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49)__
+$ *Save the __[gradesList.csv](https://gist.github.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49)__
 file in drive `C:`.*
-
 # []()
 
 *and for the so-beloved lazy ones,*  
