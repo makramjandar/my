@@ -62,8 +62,6 @@ So hopefully, it’s hand-on approach will be useful for you as well… Evidentl
   <dd>and the 🏆 is the <a href="https://gist.github.com/makramjandar/24d3eea44f6857336e78229c4580c525#file-oneshotupswing-corelatedsubquery-sql"><b>$ co-Related Subquery</b></a>.</dd>
 
 # []()
-
-<img align="right" width="70" height="70" src="https://i.gyazo.com/5c4540d073c48de2e9dbbbd85f1e9cc7.gif">  
    
 <img align="left" width="60" height="60" src="https://i.gyazo.com/4082eedd4a3193c565cf98547702e758.gif"><b><em>Prerequisites:</em></b>  
 __$__ *Save the __[gradesList.csv](https://gist.githubusercontent.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49/raw/5f0ac7dd214f470a6180b6c066bc951b76463fb6/oneShotUpswing-gradesList.csv)__
