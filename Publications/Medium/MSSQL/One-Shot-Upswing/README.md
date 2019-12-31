@@ -29,15 +29,16 @@ Evidently, here and there, you’ll find enough articles, chunks and hunks that 
 ## In-Memory OLTP
 
 <dl>
-  <p>First, prior to analysis, let's create our memory optimized staging table:</p>
+  <p>First, let's create our memory optimized staging table:</p>
   <dd><a href="https://gist.github.com/makramjandar/cb95c3d8e258576ca7783c4e4c71629a#file-oneshotupswing-tablescreation-sql"><b>$ MSSQL conditional version-based (Memory-Optimized | Traditional on-disk)</b></a></dd>
 </dl>
 
 ## Normalization
 
 <img align="right" width="400" height="280" src="https://cdn-images-1.medium.com/max/800/1*EnENdgJg80Dl_lllMZLIyA.png">
+  <p>Next, prior to analysis, let's settle cleaned data and populate the newly created table:</p>
 <dl>
-  <dd><a href="https://gist.github.com/makramjandar/4a1c56f26472bccea9f1efefe759d829#file-oneshotupswing-normalization-sql"><b>$ Next, let's settle cleaned data and populate the newly created table.</b></a></dd>
+  <dd><a href="https://gist.github.com/makramjandar/4a1c56f26472bccea9f1efefe759d829#file-oneshotupswing-normalization-sql"><b>$ Data normalisation </b></a></dd>
 </dl>
   <p><em>We can apply those techies to recreate the relations, staging tables, indexes, or even to automate data migration and all the sub-processes of the MERISE model-based just on the fly.</em></p>
   <p><em>Conceptually, the required bricks are exposed right here, up to you to extrapolate, fine-tune, tweak and so on ?!!</em></p>
