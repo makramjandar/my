@@ -39,7 +39,8 @@ Evidently, here and there, you’ll find enough articles, chunks and hunks that 
 <dl>
   <dd><a href="https://gist.github.com/makramjandar/4a1c56f26472bccea9f1efefe759d829#file-oneshotupswing-normalization-sql"><b>$ Next, let's settle cleaned data and populate the newly created table.</b></a></dd>
 </dl>
-  <p><em>We can apply those techies to recreate the relations, staging tables, indexes, or even to automate data migration and all the sub-processes of the MERISE model-based just on the fly. Conceptually, the required bricks are exposed right here, up to you to extrapolate, fine-tune, tweak and so on ?!!</em></p>
+  <p><em>We can apply those techies to recreate the relations, staging tables, indexes, or even to automate data migration and all the sub-processes of the MERISE model-based just on the fly.</em></p>
+  <p><em>Conceptually, the required bricks are exposed right here, up to you to extrapolate, fine-tune, tweak and so on ?!!</em></p>
 
 ## Exploratory Pivoting
 
@@ -61,7 +62,7 @@ Evidently, here and there, you’ll find enough articles, chunks and hunks that 
 
 ## Prerequisites
    
-<img align="left" width="80" height="60" src="https://i.gyazo.com/4082eedd4a3193c565cf98547702e758.gif"><b><em>Prerequisites:</em></b>  
+<img align="left" width="80" height="60" src="https://i.gyazo.com/4082eedd4a3193c565cf98547702e758.gif"><b><em> </em></b>  
 __$__ *Save the __[gradesList.csv](https://gist.githubusercontent.com/makramjandar/6bbd4c7eb82e39c0a51c2484ec626f49/raw/5f0ac7dd214f470a6180b6c066bc951b76463fb6/oneShotUpswing-gradesList.csv)__
 file in drive `C:`.*
 #
