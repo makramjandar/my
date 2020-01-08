@@ -9,7 +9,8 @@
 *[Control the assignment of the accountadmin role to users](https://docs.snowflake.net/manuals/user-guide/security-access-control-considerations.html#control-the-assignment-of-the-accountadmin-role-to-users)  
 [Using the accountadmin role](https://docs.snowflake.net/manuals/user-guide/security-access-control-considerations.html#using-the-accountadmin-role)  
 [Designating additional users as account administrators](https://docs.snowflake.net/manuals/user-guide/security-access-control-configure.html#designating-additional-users-as-account-administrators)*  
-
+> Below are the steps for defining an account admin role:
+### 1 — Walter White (existing ACCOUNTADMIN) creates a user account for Skyler (Enterprise Architect).
 
 [4]: http://example.org/ "Title"
 
