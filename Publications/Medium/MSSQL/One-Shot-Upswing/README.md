@@ -54,7 +54,7 @@ Evidently, here and there, you’ll find enough articles, chunks and hunks that 
 
 <img align="left" width="400" height="280" src="https://cdn-images-1.medium.com/max/800/1*xXjr9rN80o4BV5otPYDbMQ.gif">
 <dl>
-  <p>And finally, let’s try simulating the <b>LEAD()</b> function, just in case ?! <em>Yeah, I’m fiercely devoted to the Shadoks motto: Why make it simple when you can make it complicated ?!!</em></p>
+  <p>And finally, let’s try simulating the <b>LEAD()</b> function, just in case ?! <em>Yeah, I’m fiercely devoted to the Shadoks motto: Why make it simple when you can make it complicated ?!</em></p>
   <dd><a href="https://gist.github.com/makramjandar/8936fc8b39cae35544f89e70b53ff9f8#file-oneshotupswing-analyticalfunction-sql"><b>$ with Analytical function</b></a>,</dd>
   <dd><a href="https://gist.github.com/makramjandar/ca87c3dc4e6b94d21e3e5b48b9c705ad#file-oneshotupswing-nojoins-sql"><b>$ with No Joins</b></a>,</dd>
   <dd><a href="https://gist.github.com/makramjandar/18359a2d9a68dd6179bdd5afc0cbd43c#file-oneshotupswing-cteusage-sql"><b>$ CTE usage</b></a>,</dd>
