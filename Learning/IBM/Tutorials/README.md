@@ -1,6 +1,6 @@
 # Tutorials
 ### :dash: IoT
-- ### [Create an Internet of Things Platform Starter application][1] ([1.1])
+- ### [Create an Internet of Things Platform Starter app][1] ([1.1])
 
 
 
